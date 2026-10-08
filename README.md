@@ -136,4 +136,4 @@ experiments/  embedding-model and retrieval benchmarks
 
 ---
 
-*Built as a master's thesis project. The system is a research prototype — the measurements are the deliverable, not a production deployment.*
+
