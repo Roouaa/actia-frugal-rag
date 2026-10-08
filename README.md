@@ -2,7 +2,7 @@
 
 **A retrieval-augmented question-answering system for French social-security and labour law — built to measure what a locally-hosted open-weight model actually costs you in answer quality, compared to a commercial API.**
 
-ACTIA answers case questions for *assistants de service social* (social workers) — people advising real clients on sick leave, invalidity pensions, retirement, family benefits and workplace accommodation, where a wrong answer has consequences and an unsourced answer is unusable.
+ACTIA answers case questions for *assistants de service social* (social workers) , people advising real clients on sick leave, invalidity pensions, retirement, family benefits and workplace accommodation, where a wrong answer has consequences and an unsourced answer is unusable.
 
 The interesting engineering question isn't "can an LLM answer these?" — it's **what do you give up by running the model on your own hardware instead of sending client data to a commercial API?** That question has a real answer here, measured rather than asserted.
 
